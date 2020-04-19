@@ -56,7 +56,7 @@ for r=1:or
 end
 
 %ALPHA BLENDING
-iFinal=double(i)*0.5+double(iNew)*0.5;
+iFinal=double(i)*0.6+double(iNew)*0.4;
 iFinal=uint8(iFinal);
 
 subplot(3,1,1);
