@@ -11,4 +11,4 @@ The filters/transformations applied are:
   
 The out put is shown as second new image along with original image.
 
-Also, a third image is also produced using alpha blend of ratio 1:1 using the newly generated image and original image.
+Also, a third image is also produced using alpha blend of ratio 3:2 using the newly generated image and original image.
