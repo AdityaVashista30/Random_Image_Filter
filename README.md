@@ -1,5 +1,5 @@
 # Random_Image_Filter
-This R script is used to apply a set of 5 filters on an input image.
+This R script is used to apply a fillter consisting of set of 5 different image operations on an input image.
 The image is randomly devided into 5 parts  using random function. Each of these 5 parts are applied with different different transformations from othes.
 The filters/transformations applied are:
 
