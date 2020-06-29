@@ -1,6 +1,6 @@
 # Random_Image_Filter
 
-This R script is used to apply a filter consisting of a set of 5 different image operations on an input image.
+This MATLAB script is used to apply a filter consisting of a set of 5 different image operations on an input image.
 The image is randomly divided into 5 parts using random function. Each of these 5 parts is applied with different transformations from others.
 The filters/transformations applied are:
 
