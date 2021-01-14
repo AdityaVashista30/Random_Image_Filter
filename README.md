@@ -8,7 +8,7 @@ The filters/transformations applied are:
     2.GreyScale Transformation
     3.Gamma Transformation
     4.Negative Filter
-    5.Contrast Streching
+    5.Contrast Stretching.
   
 The output is shown as a second new image along with the original image.
 
